@@ -14,12 +14,7 @@ public class simpleActor extends Actor
      */
     public void act()
     {
-        move(5);
-        if(isAtEdge()){
-            turn(45);
-        }
-        // British Alex was here
-        // I drink tea, and I rap, I put the tea in trapper.
-        // Tory donor, tony backer rest in peace to margaret thatcher
+        //dellet
+        //ja
     }
 }
